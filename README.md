@@ -1,11 +1,9 @@
 # A Unifying Framework for Spectrum Preserving Graph Sparsification and Coarsening
-Code associated with the paper ``A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening'' (NeurIPS, 2019)
+Code associated with the paper "A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening" (NeurIPS, 2019)
 
-##########################################
-### Information for:
-### 	graph_reduction.py
-###		and GLGraph.py
-##########################################
+####################################################################################
+### Information for: graph_reduction.py	and GLGraph.py
+####################################################################################
 
 dependencies: numpy, random, time
 
