@@ -1,5 +1,5 @@
-# A-Unifying-Framework-for-Spectrum-Preserving-Graph-Sparsification-and-Coarsening
-Python code associated with the paper ``A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening'' (NeurIPS, 2019)
+# A Unifying Framework for Spectrum Preserving Graph Sparsification and Coarsening
+Code associated with the paper ``A Unifying Framework for Spectrum-Preserving Graph Sparsification and Coarsening'' (NeurIPS, 2019)
 
 ##########################################
 ### Information for:
