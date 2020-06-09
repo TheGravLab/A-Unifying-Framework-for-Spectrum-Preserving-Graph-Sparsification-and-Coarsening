@@ -20,3 +20,4 @@ inputs:
 outputs:
 	reducedLaplacian:			The reduced node-weighted Laplacian of dimension \tilde{n} \times \tilde{n}
 	reducedLaplacianOriginalDimension:			The reduced node-weighted Laplacian of dimension n \times n
+
